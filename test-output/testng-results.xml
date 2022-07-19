@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-19T13:02:24 IDT" name="Default suite" finished-at="2022-07-19T13:02:24 IDT" duration-ms="45">
+    <groups>
+    </groups>
+    <test started-at="2022-07-19T13:02:24 IDT" name="Default test" finished-at="2022-07-19T13:02:24 IDT" duration-ms="45">
+      <class name="com.ballarddesigns.demoTests.NewTest">
+        <test-method signature="test2()[pri:0, instance:com.ballarddesigns.demoTests.NewTest@31fa1761]" started-at="2022-07-19T13:02:24 IDT" name="test2" finished-at="2022-07-19T13:02:24 IDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.ballarddesigns.demoTests.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
